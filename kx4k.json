@@ -1,7 +1,7 @@
 {
     "spider": "./lib/ttbinge.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "logo": "https://gitee.com/biejiaooubingege/yes/raw/master/logo.txt",
+    "logo": "./lib/logo.txt",
     "sites": [
         {
             "key": "豆瓣",
