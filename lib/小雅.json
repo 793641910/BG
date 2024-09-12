@@ -5,66 +5,54 @@
 		
   
 
- 		{
-			"name": "开心影视动画",
-			"server": "http://ttkx.live:5244",
-			"hidden": true,
-			"login": {
-				"username": "ttkx",
-				"password": "dd123456"
-			}},
-
+ 		
   {
-			"name": "🤱小雅1",
+			"name": "兵哥",
 			"server":"http://60.205.200.121:5344/"
 		},
   	{
-			"name": "🎆小雅2",
+			"name": "灰哥",
 			"server": "http://61.134.67.189:5678/"
 		},
    		
 		
 		{
-			"name": "💢ECVE网盘",
+			"name": "冬瓜网盘",
 			"server": "https://pan.ecve.cn"
 		},
 		{
-			"name": "🔰雨呢",
+			"name": "萌萌",
 			"server": "https://pan.clun.top"
 		},
 {
-      "name": "🐳星梦",
+      "name": "翰林尚品",
       "server": "https://pan.bashroot.top"
     },
 
 {
-			"name": "🍇小新",
-			"server": "https://pan.cdnxin.top/"
-		},
-{
-			"name": "🐜蚂蚁",
+			"name": "兵哥视界",
 			"server": "https://pan.mediy.cn"
 		},
 {
-			"name": "🔋挺好",
+			"name": "挺好",
 			"server": "https://pan.ztha.top"
 		},
 
 
-				{"name": "♻️七米藍", "server": "https://al.chirmyram.com/"}, 
+				{"name": "七米藍", "server": "https://al.chirmyram.com/"}, 
 {
-"name": "⚖托盘",
+"name": "托盘",
 "server": "https://pan.mediy.cn/"
 },
 
     {
-      "name": "💰神族九帝",
+      "name": "神族九帝",
       "server": "https://alist.shenzjd.com"
     },
 
 
  {
-			"name": "🌺蚂蚁高清网盘",
+			"name": "蚂蚁高清网盘",
 			"server": "http://36.140.110.103:10021/"
 		},
       
