@@ -1413,28 +1413,10 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "🍁晴天线路",
-            "type": 0,
-            "url": "https://7220.kstore.space/晴天.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
             "name": "🍁临测线路",
             "type": 0,
             "url": "http://rihou.cc:567/0620",
             "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "🍁野火线路",
-            "type": 0,
-            "url": "https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u",
-            "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -1452,15 +1434,6 @@
             "name": "🍁V6明线路",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "🍁V6阳线路",
-            "type": 0,
-            "url": "https://6396.kstore.space/vip/阳阳pv6.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1512,16 +1485,7 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "🍁测试线路",
-            "type": 0,
-            "url": "https://yubox.xyz/live.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "🍁晴天线路",
+            "name": "🍁晴天了线路",
             "type": 0,
             "url": "https://dpaste.org/FGsWR/raw",
             "playerType": 2,
@@ -1557,15 +1521,6 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "🍁综合四线",
-            "type": 0,
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
             "name": "🍁探探线路",
             "type": 0,
             "url": "http://www.lyyytv.cn/yt/zhibo/1.txt",
@@ -1587,15 +1542,6 @@
             "name": "🍁范明电台",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "🍁饭太线路",
-            "type": 0,
-            "url": "https://www.huichunniao.cn/xh/lib/live.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
