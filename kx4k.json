@@ -1485,15 +1485,6 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "🍁晴天了线路",
-            "type": 0,
-            "url": "https://dpaste.org/FGsWR/raw",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
             "name": "🍁综合线路",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
