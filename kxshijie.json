@@ -5,13 +5,24 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🧧兵哥视界🧧12月26日撰🧧长按主页刷新数据🧧加QQ防失联🇨🇳",
+            "name": "🧧兵哥视界🧧1月18日撰🧧备用线路不是最好🧧加QQ防失联🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
             "jar": "./lib/辉少.jpg"
+        },
+        {
+            "key": "检查更新",
+            "name": "软件🧧更新",
+            "type": 3,
+            "api": "csp_Market",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://gitee.com/hccxbg/py/raw/master/market.json"
         },
         {
             "key": "csp_KungFu404",
