@@ -7,7 +7,7 @@
             "key": "豆瓣",
             "name": "🧧兵哥视界备用线路🧧4月10日撰🧧加QQ防失联🇨🇳",
             "type": 3,
-            "api": "csp_Douban",
+            "api": "csp_Doub",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -18,7 +18,7 @@
             "name": "检查🧧更新",
             "type": 3,
             "api": "csp_Market",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "jar": "s://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "searchable": 0,
             "changeable": 0,
             "ext":"https://8698.kstore.space/market.json"
