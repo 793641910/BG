@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🧧兵哥视界🧧3月28日撰🧧备用线路🧧加QQ防失联🇨🇳",
+            "name": "🧧兵哥视界备用线路🧧4月10日撰🧧加QQ防失联🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -21,7 +21,7 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "searchable": 0,
             "changeable": 0,
-            "ext":"ps://8698.kstore.space/market.json"
+            "ext":"https://8698.kstore.space/market.json"
         },
         {
             "key": "csp_KungFu404",
